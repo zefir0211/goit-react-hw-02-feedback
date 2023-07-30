@@ -1,6 +1,6 @@
 import React from 'react';
 import Section from './feedback/sectons';
-import FeedbackButtons from './feedback/battons';
+import FeedbackButtons from './feedback/buttons';
 import Notification from './feedback/notification';
 import Statistics from './feedback/statistics';
 import { MainSection, VisuallyHidden, Container } from './App.styled';
