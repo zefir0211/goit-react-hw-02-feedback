@@ -1,8 +1,8 @@
 import React from 'react';
-import Section from './feedback/sectons';
-import FeedbackButtons from './feedback/buttons';
-import Notification from './feedback/notification';
-import Statistics from './feedback/statistics';
+import Section from './feedback/sections/sections';
+import FeedbackButtons from './feedback/buttons/buttons';
+import Notification from './feedback/notification/notification';
+import Statistics from './feedback/statistics/statistics';
 import { MainSection, VisuallyHidden, Container } from './App.styled';
 
 export class App extends React.Component {

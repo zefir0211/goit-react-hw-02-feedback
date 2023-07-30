@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { BoxButton, Elements, Button } from './feedback.styled';
+import { BoxButton, Elements, Button } from './buttons.styled';
 
 export default function FeedbackButtons({ options, onLeaveFeedback }) {
     return (

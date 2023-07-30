@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Box, BoxItem } from './feedback.styled';
+import { Box, BoxItem } from './statistics.styled';
 
 export default function Statistics({
     good,

@@ -52,19 +52,3 @@ export const Button = styled.button`
         outline-offset: 15px;
     }
 `;
-
-export const SectionContainer = styled.div`
-    font-size: 20px;
-`;
-
-export const Title = styled.h2`
-    font-size: 40px;
-`;
-
-export const Box = styled.ul`
-    list-style: none;
-    margin-top: 20px;
-`;
-
-export const BoxItem = styled.li`
-`;
